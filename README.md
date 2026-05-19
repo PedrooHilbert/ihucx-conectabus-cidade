@@ -1,0 +1,32 @@
+# ConectaBus
+
+**Disciplina:** Interação Humano Computador e UX  
+**Professor:** Daniel Henrique Matos de Paiva  
+**Instituição:** Centro Universitário UNA
+
+---
+
+## Nome dos Alunos
+
+- Pedro Morais Hilbert
+- Letícia Petrina Machado Silva
+- Christopher Nascimento Lopes de Azevedo
+- Luana Xavier Monteiro
+
+---
+
+## Contexto de Uso
+
+O usuário está correndo para não perder o metrô, segurando mochila com uma mão. O app foi projetado para decisão rápida com apenas um polegar.
+
+---
+
+## Decisões de UX
+
+O tempo de chegada é destacado acima do número da linha por ser a informação mais urgente. O QR Code foi feito grande para uso com uma mão. O botão SOS fica sempre visível.
+
+---
+
+## Acessibilidade
+
+Botões com tamanho mínimo de 44px, ícones sempre com texto e informações de rampa e piso baixo em destaque na tela do veículo.
