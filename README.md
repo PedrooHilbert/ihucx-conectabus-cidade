@@ -12,6 +12,7 @@
 - Letícia Petrina Machado Silva
 - Christopher Nascimento Lopes de Azevedo
 - Luana Xavier Monteiro
+- João augusto Miranda Viana de Souza
 
 ---
 
