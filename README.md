@@ -13,7 +13,7 @@
 - Christopher Nascimento Lopes de Azevedo
 - Luana Xavier Monteiro
 - João augusto Miranda Viana de Souza
-
+- Daniel de Almeida Vieira
 ---
 
 ## Contexto de Uso
